@@ -1,0 +1,19 @@
+RXZS External Tool Certification
+
+This is to certify that the RXZS tool has been thoroughly tested and is verified to work under the following conditions:
+
+1. The tool was created and distributed by ffcryz.
+2. It is intended for educational purposes only and should be used responsibly.
+3. The tool has been tested on multiple machines with varying configurations to ensure compatibility.
+4. It does not modify any game files or interact with game servers in a way that violates the terms of service of Valorant.
+5. Users are required to disable antivirus software during installation to avoid false-positive detections.
+
+Please use this tool in a controlled environment or in private matches to avoid potential issues.
+
+**Important:**
+- The use of RXZS in public matches or competitive play may result in bans or other penalties from game developers.
+- By using this tool, you acknowledge the risks and agree to use it at your own discretion.
+
+Issued by: ffcryz
+Date: 2024-08-11
+
