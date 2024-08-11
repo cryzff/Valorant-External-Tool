@@ -53,6 +53,6 @@ We welcome contributions to improve RXZS. If you have suggestions or want to add
 - 🔒 **Additional Security Measures**: Implement further security features to protect users.
 
 ## Support 💬
-If you encounter any issues or have questions about the tool, please open an issue on GitHub or reach out to ffcryz directly.
+If you encounter any issues or have questions about the tool, join our discord.
 
 
