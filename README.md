@@ -53,4 +53,4 @@ We welcome contributions to improve RXZS. If you have suggestions or want to add
 ## Support 💬
 If you encounter any issues or have questions about the tool, join our discord.
 
-[![Join Our Discord](https://img.shields.io/badge/Join%20Our%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uJqMgSfa)
+[![Join Our Discord](https://img.shields.io/badge/Join%20Our%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PxymZPmK4w)
